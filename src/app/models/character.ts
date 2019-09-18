@@ -1,6 +1,6 @@
 export interface Character {
     name: string;
-    decease: boolean;
+    deceased: boolean;
 }
 
 export interface CharacterQuery {
